@@ -23,7 +23,7 @@ The REST API is expected at `http://localhost:9966/petclinic/api`. Confirm healt
 ### 2. Start this frontend
 
 ```bash
-cd vet-reception-desk
+cd PetClinic
 npm install
 cp .env.example .env.local # optional; defaults are already configured
 npm run dev
